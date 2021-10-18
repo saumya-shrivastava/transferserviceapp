@@ -13,6 +13,9 @@ import javax.validation.constraints.Positive;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
+/**
+* This model class maps to the JSON request
+**/
 public class TransactionInput {
     @NotBlank (message = "Source Account number cannot be blank")
     private Long sourceAccountNumber;
