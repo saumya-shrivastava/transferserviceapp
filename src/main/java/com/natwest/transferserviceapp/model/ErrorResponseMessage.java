@@ -6,12 +6,6 @@ import lombok.Setter;
 
 import java.util.Date;
 
-/**
- * Class to have error response messages for build index.
- *
- * @author n.dubey
- *
- */
 @Getter
 @Setter
 @Builder
