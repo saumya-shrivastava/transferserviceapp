@@ -1,4 +1,5 @@
-H2 Console available at :
+
+*****H2 Console available at :
 http://localhost:8080/h2-console/
 JDBC URL: jdbc:h2:mem:testdb
 username: sa
